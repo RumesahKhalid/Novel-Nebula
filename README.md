@@ -12,7 +12,7 @@
 
 ### Demo Screeshots
 
-![Bookish Desktop Demo](./images/desktop.png "Desktop Demo")
+![Bookish Desktop Demo](![desktop](https://github.com/RumesahKhalid/Novel-Nebula/assets/112583410/7de27358-540e-454c-88a5-977568310065) "Desktop Demo")
 
 ### Prerequisites
 
